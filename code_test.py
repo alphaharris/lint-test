@@ -7,3 +7,9 @@ y = list(np.cumsum(x))
 
 #OUTPUT
 print(y)
+
+x=2
+#reallyshoulcatch this
+camelCaseVariableIsWrong = 0
+# this line is long
+#aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
