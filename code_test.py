@@ -21,4 +21,4 @@ def violate():
 # try to trigger PyLint
 class myClass():
     def __init__(self):
-        return 'something else'
+        return 'something else 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
