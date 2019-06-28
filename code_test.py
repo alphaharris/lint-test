@@ -5,7 +5,7 @@ import numpy as np
 x = [1,2,3]
 y = list(np.cumsum(x))
 
-#OUTPUT
+#OUTPUT test
 print(y)
 
 x=2
