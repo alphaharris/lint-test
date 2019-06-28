@@ -2,6 +2,8 @@
 
 While summing over a list, one may wish to record intermediate sums as the list is processed from left to right.
 
+######## trigger markdown linter
+
 ## Use `numpy.cumsum()`
 
 ```python
