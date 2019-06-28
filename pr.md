@@ -6,6 +6,7 @@ While summing over a list, one may wish to record intermediate sums as the list 
 
 ```python
 #PRELUDE
+# Benign change
 import numpy as np 
 
 #CODE
